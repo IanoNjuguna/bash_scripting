@@ -1,3 +1,3 @@
 # BaSH
 
-Learn Bash.
+Use the `Bash.MD` file to learn Bash.
